@@ -1,4 +1,4 @@
-function double(num){
+function doublethe(num){
 	return num * 2;
 }
 
